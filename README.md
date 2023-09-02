@@ -1,6 +1,9 @@
 # Smart-Home
 🏡 An advanced fully functional Smart Home using **ARDUINO**
 
+![Uploading 1. Smart Home.jpeg…]()
+
+
 - **Access Control:** Our smart door lock ensures only authorized individuals can enter our home, and it's all controlled via a secure keypad system. Plus, it sends instant notifications whenever someone enters or exits.
 - **Environmental Comfort:** We've integrated temperature and humidity sensors throughout the house. This not only allows us to monitor and control the indoor climate remotely but also enables automatic adjustments for optimal comfort.
 - **Comprehensive Security:** The home security system is state-of-the-art. PIR motion sensors, IR sensors, and smoke detectors work together to detect intruders, fires, and any unusual activity. Real-time alerts are sent to our smartphones for immediate action.
